@@ -1,0 +1,23 @@
+body{
+    background: url(background.jfif);
+    background-size: cover;
+}
+h1{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-size: 30px !important;
+}
+h1 span{
+    font-size: 18px;
+}
+input{
+    font-size: 18px;
+    width: 300px;
+    padding: 5px;
+}
+canvas{
+    width: 300px !important;
+    height: 300px !important;
+    margin-top: 290px;
+}
